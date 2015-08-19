@@ -1,0 +1,6 @@
+C:\Users\vesko\Desktop\C#\Homework - StringsAndTextProcessing\04.Sub-stringInText\bin\Debug\04.Sub-stringInText.exe.config
+C:\Users\vesko\Desktop\C#\Homework - StringsAndTextProcessing\04.Sub-stringInText\bin\Debug\04.Sub-stringInText.exe
+C:\Users\vesko\Desktop\C#\Homework - StringsAndTextProcessing\04.Sub-stringInText\bin\Debug\04.Sub-stringInText.pdb
+C:\Users\vesko\Desktop\C#\Homework - StringsAndTextProcessing\04.Sub-stringInText\obj\Debug\04.Sub-stringInText.csprojResolveAssemblyReference.cache
+C:\Users\vesko\Desktop\C#\Homework - StringsAndTextProcessing\04.Sub-stringInText\obj\Debug\04.Sub-stringInText.exe
+C:\Users\vesko\Desktop\C#\Homework - StringsAndTextProcessing\04.Sub-stringInText\obj\Debug\04.Sub-stringInText.pdb
